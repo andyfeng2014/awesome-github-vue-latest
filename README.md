@@ -1,6 +1,23 @@
-awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的Vue相关开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/front-vue)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 
 
-如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-vue/issues)反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。 
+
+![](https://github.com/vue3/awesome-github-vue-latest/raw/master/assets/logo.jpg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
+  <img src="https://img.shields.io/badge/vue-2-ff69b4.svg">
+  <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
+  <img src="https://img.shields.io/badge/Don't-Panic-ff69b4.svg">
+  <img src="https://img.shields.io/badge/vue-nature-ded76a.svg">
+</p>
+
+# 更新Star
+
+> awesome-github-vue 是由[OpenDigg](http://www.opendigg.com/)整理并维护的Vue相关开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/front-vue)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 
+
+> 如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-vue/issues)反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。 
+
+原来这个已经很久没更新，这里我就更新一下Star。   
+供大家重新去查看。
 
 # 内容 
 
