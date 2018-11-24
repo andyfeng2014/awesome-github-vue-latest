@@ -21,19 +21,19 @@
 
 # Todolist
 
-### 更新Star 24/11/2018 :unlock:
+#### 更新Star （24/11/2018） :triangular_flag_on_post:
 
-通过爬虫更新了Star 
+~~通过爬虫更新了Star~~
 
-### 暂不会按照Star数来排列 :lock:
+#### 暂不会按照Star数来排列 :lock:
 
 哪天开心了就加上去
 
-### 加上分类Star数的图表（chart） :lock:
+#### 加上分类Star数的图表（chart） :lock:
 
 按分类弄个排行榜，弄成图表（chart）
 
-### 爬虫github最新前端一些库 :lock:
+#### 爬虫github最新前端一些库 :lock:
 
 去找一些好玩好用的库来耍耍
 
